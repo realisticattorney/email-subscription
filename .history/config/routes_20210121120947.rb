@@ -3,9 +3,8 @@ Rails.application.routes.draw do
 
   root 'signups#new'
 
-  resources :signups
-
-  get '/thanks' => 'pages#thanks'
-
+  
+  
+  
   
 end

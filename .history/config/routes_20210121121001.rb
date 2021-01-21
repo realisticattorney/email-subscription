@@ -5,7 +5,8 @@ Rails.application.routes.draw do
 
   resources :signups
 
-  get '/thanks' => 'pages#thanks'
-
+  
+  
+  
   
 end

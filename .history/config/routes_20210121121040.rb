@@ -8,4 +8,7 @@ Rails.application.routes.draw do
   get '/thanks' => 'pages#thanks'
 
   
+  
+  
+  
 end
